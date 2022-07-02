@@ -1,0 +1,22 @@
+[
+  {
+    "name": "command_default",
+    "value": "!bot"
+  },
+  {
+    "name": "command_help",
+    "value": "help"
+  },
+  {
+    "name": "message_default",
+    "value": "Hello World"
+  },
+  {
+    "name": "message_help",
+    "value": ["!bot - hello World", "!bot help - Show this menu"]
+  },
+  {
+    "name": "message_spam",
+    "value": "(n) {nickname} ({id}) You get block for {time} minutes."
+  }
+]

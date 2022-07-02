@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "wolf.js": "^1.5.0"
+  }
+}
